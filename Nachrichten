@@ -5,8 +5,8 @@
 <body>
 
 <?php
-echo: "Um ein Helfer zu werden musst du: 
-echo: ->Mindestens 14 Jahre alt sein
+echo "Um ein Helfer zu werden musst du: 
+->Mindestens 14 Jahre alt sein
 ->Die Rechtschreibung und Grammatik gut beherrschen
 ->Die Momio-Regeln kennen
 ->Dich gut mit Momio auskennen 
